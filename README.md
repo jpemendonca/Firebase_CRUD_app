@@ -1,4 +1,4 @@
-# App plantas (Autoponia)
+# App plantas
 
 Esse é um app com CRUD de plantas e irrigador, sincronizados em tempo real via Firebase. Com ele você pode cadastrar suas plantas e seus irrigadores, tendo total controle.
 
